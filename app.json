@@ -1,7 +1,7 @@
 {
   "name": "Aaru ChatBot",
-  "description": "Aaru ChatBot is an AI-powered Telegram bot with smart responses, automation, and seamless integrations using Python, MongoDB, and Pyrogram.",
-  "logo": "https://graph.org/file/826485f2d7db6f09db8ed.jpg",
+  "description": "Asif ChatBot is an AI-powered Telegram bot with smart responses, automation, and seamless integrations using Python, MongoDB, and Pyrogram.",
+  "logo": "https://i.ibb.co/BJx5sXJ/IMG-20250317-232344-569.jpg",
   "keywords": [
     "Chatbot",
     "MongoDB",
@@ -13,7 +13,7 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/CodeSearchDev/AaruChatBot",
+  "repository": "https://github.com/ASIFXQUEEN/XQUEENNAIBOT",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
